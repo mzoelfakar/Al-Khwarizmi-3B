@@ -12,7 +12,7 @@ Click the badge above, then run the cell — it loads the model and starts an in
 
 ## About the model
 
-Full training details, benchmarks, and usage snippets are on the model card: **[mzoelfakar/Al-Khwarizmi-3B](https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B)**.
+The model files for download and model card for full details are available in its Hugging Face repo: **[mzoelfakar/Al-Khwarizmi-3B](https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B)**.
 
 ## Note on raw output formatting
 
