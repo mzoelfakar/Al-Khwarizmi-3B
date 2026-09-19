@@ -29,10 +29,6 @@ Because the model was fine-tuned on GSM8K (including the `socratic` reasoning st
 
 This notebook already handles these cases before rendering. If you adapt the display logic elsewhere, you'll want to account for them too.
 
-## Calculator-in-the-loop
-
-Al-Khwarizmi-3B writes GSM8K-style `<<expression=result>>` annotations, so at inference time you can pause generation as soon as the model emits `=` inside a `<<…>>` block, calculate the precise result with a calculator, append the exact result, and resume generating from the extended text (the Colab demo includes a ready-made `StoppingCriteria` loop), which corrects arithmetic slips without changing the weights.
-
 ## License
 
 apache-2.0
