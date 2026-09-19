@@ -16,7 +16,7 @@ The model files for download and model card for full details are available in it
 
 ## Calculator-in-the-loop
 
-Al-Khwarizmi-3B writes GSM8K-style <<expression=result>> annotations, so at inference time you can pause generation as soon as the model emits = inside a <<…>> block, calculate the precise result with a calculator, append the exact result, and resume generating from the extended text (the Colab demo includes a ready-made StoppingCriteria loop), which corrects arithmetic slips without changing the weights.
+Al-Khwarizmi-3B writes GSM8K-style <<expression=result>> annotations, so at inference time you can pause generation as soon as the model emits = inside a <<…>> block, calculate the precise result with a calculator, append the exact result, and resume generating from the extended text (the [Colab demo](https://colab.research.google.com/github/mzoelfakar/Al-Khwarizmi-3B/blob/main/Al-Khwarizmi-3B.ipynb) includes a ready-made StoppingCriteria loop), which corrects arithmetic slips without changing the weights.
 
 ## Note on raw output formatting
 
