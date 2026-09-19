@@ -27,7 +27,7 @@ This notebook already handles these cases before rendering. If you adapt the dis
 
 ## Calculator-in-the-loop
 
-Al-Khwarizmi-3B writes GSM8K-style `<<expression=result>>` annotations, so at inference time you can pause generation as soon as the model emits `=` inside a `<<…>>` block, calculate the precise result with a calculator, append the exact result, and resume generating from the extended text (this Colab demo includes a ready-made `StoppingCriteria` loop), which corrects arithmetic slips without changing the weights.
+Al-Khwarizmi-3B writes GSM8K-style `<<expression=result>>` annotations, so at inference time you can pause generation as soon as the model emits `=` inside a `<<…>>` block, calculate the precise result with a calculator, append the exact result, and resume generating from the extended text (the Colab demo includes a ready-made `StoppingCriteria` loop), which corrects arithmetic slips without changing the weights.
 
 ## License
 
