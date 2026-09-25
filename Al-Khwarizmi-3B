@@ -48,7 +48,7 @@
         "<div class=\"kh-header\">\n",
         "  <h1 class=\"kh-title\">Al-Khwarizmi</h1>\n",
         "  <img class=\"kh-img\" alt=\"Al-Khwarizmi banner\"\n",
-        "       src=\"https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B/resolve/main/banner.png\">\n",
+        "       src=\"https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B/resolve/main/assets/banner.jpg\">\n",
         "  <div class=\"kh-body\">\n",
         "    Hello,<br>\n",
         "    Before chatting:\n",
@@ -62,13 +62,13 @@
       ],
       "metadata": {
         "id": "A1x6CCexxj4h",
-        "outputId": "d2645488-cd16-4926-b984-e00f454dbb12",
+        "outputId": "046087e6-2b7e-44e1-ead7-2e89cec3a6b3",
         "colab": {
           "base_uri": "https://localhost:8080/",
-          "height": 234
+          "height": 166
         }
       },
-      "execution_count": 1,
+      "execution_count": 2,
       "outputs": [
         {
           "output_type": "display_data",
@@ -119,7 +119,7 @@
               "<div class=\"kh-header\">\n",
               "  <h1 class=\"kh-title\">Al-Khwarizmi</h1>\n",
               "  <img class=\"kh-img\" alt=\"Al-Khwarizmi banner\"\n",
-              "       src=\"https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B/resolve/main/banner.png\">\n",
+              "       src=\"https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B/resolve/main/assets/banner.jpg\">\n",
               "  <div class=\"kh-body\">\n",
               "    Hello,<br>\n",
               "    Before chatting:\n",
