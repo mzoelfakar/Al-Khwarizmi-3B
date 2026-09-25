@@ -145,20 +145,20 @@
           "base_uri": "https://localhost:8080/",
           "height": 46,
           "referenced_widgets": [
-            "8e70982e459d4570a94f1e96560c2b18",
-            "3f9bd00a4c2d45a98b598df27d1db129",
-            "4f5059ea57fd45bda6d5f3f55f310e5e",
-            "b7c8df34b9f643019147d4081d72ae1c",
-            "05194859b0d34cbb8066e092aa161459",
-            "cafb05f872e44f8db44da7c0b9e82520",
-            "faee201dbb5d44d5854004df923014e0",
-            "9e07024745fc437ab2ef6da179b73a2a",
-            "1c85c69bc1c94a93a36b0446c90fe207",
-            "f069cc9766ad48a48e00101236f43536",
-            "5784a032a86d46c59bef951481464dc6"
+            "cb26b45189f94492b3de3a052c00ecf4",
+            "69bfda163dee4e5ea1d708ee8d09e6b7",
+            "8240dd27a38f42e18d99ce2210457f33",
+            "6db6503eea8849519642d823dc61a4ae",
+            "208bb85f4b4b470faff2d9799186fced",
+            "1df0a8adefe44d97928f63704bcd7a09",
+            "51f17da43dd34e77b11265eaa51177d0",
+            "a77ada3c309b48078fbd395ccf88c0ec",
+            "315885b80ff04a638f0bffbcc9112e03",
+            "a8256827423f4eb7a1aa0dafaa5106c8",
+            "14323c73a8f346e79f2f3a7133439594"
           ]
         },
-        "outputId": "7bfe2843-7608-4de5-c435-45a610582733"
+        "outputId": "f541a8df-1ad3-418c-fa31-92ed7613c56f"
       },
       "outputs": [
         {
@@ -168,7 +168,7 @@
               "<IPython.core.display.Javascript object>"
             ],
             "application/javascript": [
-              "window.open(\"https://56757-gpu-t4-s-kkb-usw4a1-vy34qqgi2qbo-a.us-west4-1.prod.colab.dev\", \"_blank\");"
+              "window.open(\"https://60861-gpu-t4-s-kkb-usw4b0-1q8i2m96a7cg9-b.us-west4-0.prod.colab.dev\", \"_blank\");"
             ]
           },
           "metadata": {}
@@ -179,7 +179,7 @@
             "text/plain": [
               "<IPython.core.display.Markdown object>"
             ],
-            "text/markdown": "<span style=\"font-size:19px\"><strong>Al-Kwarizmi is running. If the new tab didn't open, <a href=\"https://56757-gpu-t4-s-kkb-usw4a1-vy34qqgi2qbo-a.us-west4-1.prod.colab.dev\">click here</a>.</strong></span>"
+            "text/markdown": "<span style=\"font-size:19px\"><strong>Al-Kwarizmi is running. If the new tab didn't open, <a href=\"https://60861-gpu-t4-s-kkb-usw4b0-1q8i2m96a7cg9-b.us-west4-0.prod.colab.dev\">click here</a>.</strong></span>"
           },
           "metadata": {}
         }
@@ -676,7 +676,7 @@
         "\n",
         "LANGUAGE RULES:\n",
         "\n",
-        "- You MUST ALWAYS reply in the same language and script from the user's last message, NEVER use another lanaguage, examples:\n",
+        "- You MUST ALWAYS reply in the SAME LANGUAGE AND SCRIPT from the user's last message, NEVER use another lanaguage, examples:\n",
         "\n",
         "Query: مرحبا\n",
         "Reply: اهلا كيف يمكنني مساعدك؟\n",
@@ -805,7 +805,7 @@
         "version_major": 2,
         "version_minor": 0,
         "state": {
-          "8e70982e459d4570a94f1e96560c2b18": {
+          "cb26b45189f94492b3de3a052c00ecf4": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "HBoxModel",
             "model_module_version": "1.5.0",
@@ -820,14 +820,14 @@
               "_view_name": "HBoxView",
               "box_style": "",
               "children": [
-                "IPY_MODEL_3f9bd00a4c2d45a98b598df27d1db129",
-                "IPY_MODEL_4f5059ea57fd45bda6d5f3f55f310e5e",
-                "IPY_MODEL_b7c8df34b9f643019147d4081d72ae1c"
+                "IPY_MODEL_69bfda163dee4e5ea1d708ee8d09e6b7",
+                "IPY_MODEL_8240dd27a38f42e18d99ce2210457f33",
+                "IPY_MODEL_6db6503eea8849519642d823dc61a4ae"
               ],
-              "layout": "IPY_MODEL_05194859b0d34cbb8066e092aa161459"
+              "layout": "IPY_MODEL_208bb85f4b4b470faff2d9799186fced"
             }
           },
-          "3f9bd00a4c2d45a98b598df27d1db129": {
+          "69bfda163dee4e5ea1d708ee8d09e6b7": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "HTMLModel",
             "model_module_version": "1.5.0",
@@ -842,13 +842,13 @@
               "_view_name": "HTMLView",
               "description": "",
               "description_tooltip": null,
-              "layout": "IPY_MODEL_cafb05f872e44f8db44da7c0b9e82520",
+              "layout": "IPY_MODEL_1df0a8adefe44d97928f63704bcd7a09",
               "placeholder": "​",
-              "style": "IPY_MODEL_faee201dbb5d44d5854004df923014e0",
+              "style": "IPY_MODEL_51f17da43dd34e77b11265eaa51177d0",
               "value": "Loading: 100%"
             }
           },
-          "4f5059ea57fd45bda6d5f3f55f310e5e": {
+          "8240dd27a38f42e18d99ce2210457f33": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "FloatProgressModel",
             "model_module_version": "1.5.0",
@@ -864,15 +864,15 @@
               "bar_style": "success",
               "description": "",
               "description_tooltip": null,
-              "layout": "IPY_MODEL_9e07024745fc437ab2ef6da179b73a2a",
+              "layout": "IPY_MODEL_a77ada3c309b48078fbd395ccf88c0ec",
               "max": 2,
               "min": 0,
               "orientation": "horizontal",
-              "style": "IPY_MODEL_1c85c69bc1c94a93a36b0446c90fe207",
+              "style": "IPY_MODEL_315885b80ff04a638f0bffbcc9112e03",
               "value": 2
             }
           },
-          "b7c8df34b9f643019147d4081d72ae1c": {
+          "6db6503eea8849519642d823dc61a4ae": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "HTMLModel",
             "model_module_version": "1.5.0",
@@ -887,13 +887,13 @@
               "_view_name": "HTMLView",
               "description": "",
               "description_tooltip": null,
-              "layout": "IPY_MODEL_f069cc9766ad48a48e00101236f43536",
+              "layout": "IPY_MODEL_a8256827423f4eb7a1aa0dafaa5106c8",
               "placeholder": "​",
-              "style": "IPY_MODEL_5784a032a86d46c59bef951481464dc6",
+              "style": "IPY_MODEL_14323c73a8f346e79f2f3a7133439594",
               "value": ""
             }
           },
-          "05194859b0d34cbb8066e092aa161459": {
+          "208bb85f4b4b470faff2d9799186fced": {
             "model_module": "@jupyter-widgets/base",
             "model_name": "LayoutModel",
             "model_module_version": "1.2.0",
@@ -945,7 +945,7 @@
               "width": null
             }
           },
-          "cafb05f872e44f8db44da7c0b9e82520": {
+          "1df0a8adefe44d97928f63704bcd7a09": {
             "model_module": "@jupyter-widgets/base",
             "model_name": "LayoutModel",
             "model_module_version": "1.2.0",
@@ -997,7 +997,7 @@
               "width": null
             }
           },
-          "faee201dbb5d44d5854004df923014e0": {
+          "51f17da43dd34e77b11265eaa51177d0": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "DescriptionStyleModel",
             "model_module_version": "1.5.0",
@@ -1012,7 +1012,7 @@
               "description_width": ""
             }
           },
-          "9e07024745fc437ab2ef6da179b73a2a": {
+          "a77ada3c309b48078fbd395ccf88c0ec": {
             "model_module": "@jupyter-widgets/base",
             "model_name": "LayoutModel",
             "model_module_version": "1.2.0",
@@ -1064,7 +1064,7 @@
               "width": null
             }
           },
-          "1c85c69bc1c94a93a36b0446c90fe207": {
+          "315885b80ff04a638f0bffbcc9112e03": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "ProgressStyleModel",
             "model_module_version": "1.5.0",
@@ -1080,7 +1080,7 @@
               "description_width": ""
             }
           },
-          "f069cc9766ad48a48e00101236f43536": {
+          "a8256827423f4eb7a1aa0dafaa5106c8": {
             "model_module": "@jupyter-widgets/base",
             "model_name": "LayoutModel",
             "model_module_version": "1.2.0",
@@ -1132,7 +1132,7 @@
               "width": null
             }
           },
-          "5784a032a86d46c59bef951481464dc6": {
+          "14323c73a8f346e79f2f3a7133439594": {
             "model_module": "@jupyter-widgets/controls",
             "model_name": "DescriptionStyleModel",
             "model_module_version": "1.5.0",
