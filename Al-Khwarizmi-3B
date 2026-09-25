@@ -54,7 +54,7 @@
         "    Before chatting:\n",
         "    <ul>\n",
         "      <li><b>Sign in</b> to your Google account</li>\n",
-        "      <li>Menu &gt; Runtime &gt; <b>Change runtime type &gt; T4 GPU</b> (good performance)</li>\n",
+        "      <li>Menu &gt; Runtime &gt; <b>Change runtime type &gt; T4</b> (good performance)</li>\n",
         "    </ul>\n",
         "  </div>\n",
         "</div>\n",
@@ -62,13 +62,13 @@
       ],
       "metadata": {
         "id": "A1x6CCexxj4h",
-        "outputId": "5e5cf824-7ee5-400e-ee59-49b3401a24c3",
+        "outputId": "d2645488-cd16-4926-b984-e00f454dbb12",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 234
         }
       },
-      "execution_count": 2,
+      "execution_count": 1,
       "outputs": [
         {
           "output_type": "display_data",
@@ -125,7 +125,7 @@
               "    Before chatting:\n",
               "    <ul>\n",
               "      <li><b>Sign in</b> to your Google account</li>\n",
-              "      <li>Menu &gt; Runtime &gt; <b>Change runtime type &gt; T4 GPU</b> (good performance)</li>\n",
+              "      <li>Menu &gt; Runtime &gt; <b>Change runtime type &gt; T4</b> (good performance)</li>\n",
               "    </ul>\n",
               "  </div>\n",
               "</div>\n"
