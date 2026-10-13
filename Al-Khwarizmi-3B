@@ -165,7 +165,7 @@
         "# ── Model sources (auto-selected by runtime) ─────────────────────────────\n",
         "GPU_REPO  = \"mzoelfakar/Al-Khwarizmi-3B\"\n",
         "GGUF_REPO = \"mzoelfakar/Al-Khwarizmi-3B-GGUF\"\n",
-        "GGUF_FILE = \"Al-Khwarizmi-3B-Q8_0.gguf\"\n",
+        "GGUF_FILE = \"Al-Khwarizmi-3B.i1-Q4_K_M.gguf\"\n",
         "\n",
         "history = []  # list of (user_text, assistant_text)\n",
         "\n",
