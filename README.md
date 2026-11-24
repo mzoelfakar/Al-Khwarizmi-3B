@@ -2,10 +2,7 @@
 
 Live chat notebook for **[Al-Khwarizmi-3B](https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B)**, an AI math tutor named after Muhammad al-Khwarizmi, the 9th-century mathematician whose name is the direct origin of the word "algorithm". The model is a fine-tuned version of `HuggingFaceTB/SmolLM3-3B-Base` using the `GSM8K` dataset.
 
-This repo exists to let anyone try the model online via Colab, with no local setup required.
-
-## Run it online
-
+**Try the model online** via Colab, with no local setup required.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzoelfakar/Al-Khwarizmi-3B/blob/main/Al-Khwarizmi-3B.ipynb)
 
 ## About the model
