@@ -8,8 +8,6 @@ This repo exists to let anyone try the model online via Colab, with no local set
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzoelfakar/Al-Khwarizmi-3B/blob/main/Al-Khwarizmi-3B.ipynb)
 
-Click the badge above, then run the cell — it loads the model and starts an interactive chat loop directly in the Colab output.
-
 ## About the model
 
 The model files for download and model card for full details are available in its Hugging Face repo: **[mzoelfakar/Al-Khwarizmi-3B](https://huggingface.co/mzoelfakar/Al-Khwarizmi-3B)**.
