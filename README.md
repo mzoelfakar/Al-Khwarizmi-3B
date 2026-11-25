@@ -26,7 +26,7 @@ This notebook already handles these cases before rendering. If you adapt the dis
 
 ## License
 
-apache-2.0
+[apache-2.0](LICENSE.txt)
 
 ## Credits
 
